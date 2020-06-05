@@ -1,0 +1,19 @@
+{
+    "key": "drop_7",
+    "author": "iCodeDreams",
+    "Items": {
+        "TNT-QTY-2-10": {
+            "Name": [
+                ""
+            ],
+            "Lore": [
+                ""
+            ],
+            "Material": {
+                "Item": "tnt",
+                "NBT": ""
+            },
+            "amount": "[Random](2-10)"
+        }
+    }
+}

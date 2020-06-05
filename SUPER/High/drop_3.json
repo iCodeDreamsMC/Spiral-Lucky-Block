@@ -1,0 +1,23 @@
+{
+    "key": "drop_3",
+    "author": "iCodeDreams",
+    "Items": {
+        "ULTIMATE_SPIRAL_DEMOLISHER": {
+            "Name": [
+                "&cU&el&at&bi&9m&da&ct&ee &aS&bp&9i&dr&ca&el &aD&be&9m&do&cl&ei&as&bh&9e&dr"
+            ],
+            "Lore": [
+                "&r",
+                "&7Found by [Player]"
+            ],
+            "Material": {
+                "Item": "diamond pickaxe",
+                "NBT": "{Enchantments:[{id:efficiency,lvl:10}]}"
+            },
+            "amount": 1
+        }
+    },
+    "Hologram": [
+        "&cU&el&at&bi&9m&da&ct&ee &aS&bp&9i&dr&ca&el &aD&be&9m&do&cl&ei&as&bh&9e&dr"
+    ]
+}
