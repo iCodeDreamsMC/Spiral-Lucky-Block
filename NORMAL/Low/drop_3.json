@@ -1,5 +1,5 @@
 {  
-    "key":"drop_1",
+    "key":"drop_3",
     "author":"Tmtravlr",
     "Items": {
         "ITEM_ID": {
@@ -10,7 +10,7 @@
                 ""
             ],
             "Material":{
-                "Item": "leather helmet",
+                "Item": "leather leggings",
                 "NBT": "{display:{color:[Random](0-16777215)}}"
             },
             "amount": 1

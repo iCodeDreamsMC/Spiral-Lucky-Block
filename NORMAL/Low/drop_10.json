@@ -1,0 +1,9 @@
+{  
+    "key":"drop_10",
+    "author":"Tmtravlr",
+    "Commands": {
+        "Player": [
+            "summon creeper [BlockLocation] {powered:1b,Fuse:220,ignited:1b,Invulnerable:1b}"
+        ]
+    }
+}

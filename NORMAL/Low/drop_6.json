@@ -1,0 +1,19 @@
+{  
+    "key":"drop_6",
+    "author":"Tmtravlr",
+    "Items": {
+        "sweet-berries-QTY-1-16": {
+            "Name": [
+                ""
+            ],
+            "Lore": [
+                ""
+            ],
+            "Material": {
+                "Item": "sweet berries",
+                "NBT": ""
+            },
+            "amount": "[Random](1-16)"
+        }
+    }
+}

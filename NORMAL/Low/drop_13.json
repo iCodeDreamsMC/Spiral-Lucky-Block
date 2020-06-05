@@ -1,0 +1,19 @@
+{  
+    "key":"drop_13",
+    "author":"Tmtravlr",
+    "Items": {
+        "apple-QTY-1-4": {
+            "Name": [
+                ""
+            ],
+            "Lore": [
+                ""
+            ],
+            "Material": {
+                "Item": "apple",
+                "NBT": ""
+            },
+            "amount": "[Random](1-4)"
+        }
+    }
+}

@@ -1,0 +1,227 @@
+{  
+    "key":"drop_20",
+    "author":"Tmtravlr",
+    "Items": {
+        "sea_pickles": {
+            "Name": [
+                ""
+            ],
+            "Lore": [
+                ""
+            ],
+            "Material": {
+                "Item": "sea pickle",
+                "NBT": ""
+            },
+            "amount": "[Random](1-3)"
+        },
+        "dandelions": {
+            "Name": [
+                ""
+            ],
+            "Lore": [
+                ""
+            ],
+            "Material": {
+                "Item": "dandelion",
+                "NBT": ""
+            },
+            "amount": "[Random](1-3)"
+        },
+        "blue orchids": {
+            "Name": [
+                ""
+            ],
+            "Lore": [
+                ""
+            ],
+            "Material": {
+                "Item": "blue orchid",
+                "NBT": ""
+            },
+            "amount": "[Random](1-3)"
+        },
+        "alliums": {
+            "Name": [
+                ""
+            ],
+            "Lore": [
+                ""
+            ],
+            "Material": {
+                "Item": "allium",
+                "NBT": ""
+            },
+            "amount": "[Random](1-3)"
+        },
+        "azure_bluets": {
+            "Name": [
+                ""
+            ],
+            "Lore": [
+                ""
+            ],
+            "Material": {
+                "Item": "azure bluet",
+                "NBT": ""
+            },
+            "amount": "[Random](1-3)"
+        },
+        "red_tulips": {
+            "Name": [
+                ""
+            ],
+            "Lore": [
+                ""
+            ],
+            "Material": {
+                "Item": "red tulip",
+                "NBT": ""
+            },
+            "amount": "[Random](1-3)"
+        },
+        "orange_tulips": {
+            "Name": [
+                ""
+            ],
+            "Lore": [
+                ""
+            ],
+            "Material": {
+                "Item": "orange tulip",
+                "NBT": ""
+            },
+            "amount": "[Random](1-3)"
+        },
+        "white_tulips": {
+            "Name": [
+                ""
+            ],
+            "Lore": [
+                ""
+            ],
+            "Material": {
+                "Item": "white_tulip",
+                "NBT": ""
+            },
+            "amount": "[Random](1-3)"
+        },
+        "pink_tulips": {
+            "Name": [
+                ""
+            ],
+            "Lore": [
+                ""
+            ],
+            "Material": {
+                "Item": "pink tulip",
+                "NBT": ""
+            },
+            "amount": "[Random](1-3)"
+        },
+        "oxeye_daisies": {
+            "Name": [
+                ""
+            ],
+            "Lore": [
+                ""
+            ],
+            "Material": {
+                "Item": "oxeye daisy",
+                "NBT": ""
+            },
+            "amount": "[Random](1-3)"
+        },
+        "cornflowers": {
+            "Name": [
+                ""
+            ],
+            "Lore": [
+                ""
+            ],
+            "Material": {
+                "Item": "cornflower",
+                "NBT": ""
+            },
+            "amount": "[Random](1-3)"
+        },
+        "lilies_of_the_valley": {
+            "Name": [
+                ""
+            ],
+            "Lore": [
+                ""
+            ],
+            "Material": {
+                "Item": "lily of the valley",
+                "NBT": ""
+            },
+            "amount": "[Random](1-3)"
+        },
+        "wither_roses": {
+            "Name": [
+                ""
+            ],
+            "Lore": [
+                ""
+            ],
+            "Material": {
+                "Item": "wither rose",
+                "NBT": ""
+            },
+            "amount": "[Random](1-3)"
+        },
+        "sunflowers": {
+            "Name": [
+                ""
+            ],
+            "Lore": [
+                ""
+            ],
+            "Material": {
+                "Item": "sunflower",
+                "NBT": ""
+            },
+            "amount": "[Random](1-3)"
+        },
+        "lilacs": {
+            "Name": [
+                ""
+            ],
+            "Lore": [
+                ""
+            ],
+            "Material": {
+                "Item": "lilac",
+                "NBT": ""
+            },
+            "amount": "[Random](1-3)"
+        },
+        "rose_bushes": {
+            "Name": [
+                ""
+            ],
+            "Lore": [
+                ""
+            ],
+            "Material": {
+                "Item": "rose bush",
+                "NBT": ""
+            },
+            "amount": "[Random](1-3)"
+        },
+        "peonies": {
+            "Name": [
+                ""
+            ],
+            "Lore": [
+                ""
+            ],
+            "Material": {
+                "Item": "peony",
+                "NBT": ""
+            },
+            "amount": "[Random](1-3)"
+        }
+    }
+}

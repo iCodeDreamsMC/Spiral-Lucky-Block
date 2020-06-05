@@ -1,0 +1,19 @@
+{  
+    "key":"drop_12",
+    "author":"Tmtravlr",
+    "Items": {
+        "cooked-beef-QTY-1-8": {
+            "Name": [
+                ""
+            ],
+            "Lore": [
+                ""
+            ],
+            "Material": {
+                "Item": "cooked beef",
+                "NBT": ""
+            },
+            "amount": "[Random](1-8)"
+        }
+    }
+}

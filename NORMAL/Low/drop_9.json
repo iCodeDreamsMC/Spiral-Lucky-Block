@@ -1,0 +1,10 @@
+{  
+    "key":"drop_9",
+    "author":"Tmtravlr",
+    "Commands": {
+        "Player": [
+            "playsound minecraft:entity.tnt.primed block @a[distance=..16]",
+            "summon tnt [BlockLocation] {Fuse:60}"
+        ]
+    }
+}
