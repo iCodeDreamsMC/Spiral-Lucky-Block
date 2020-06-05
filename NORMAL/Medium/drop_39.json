@@ -1,0 +1,58 @@
+{ 
+   "key":"drop_39", 
+   "author":"iCodeDreams",
+   "Items":{
+      "HELMET_OF_DEATH-QTY-1-N1":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"golden helmet",
+            "NBT":"{}"
+         },
+         "amount":1
+      },
+      "CHESTPLATE_OF_DEATH-QTY-1-N1":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"golden chestplate",
+            "NBT":"{}"
+         },
+         "amount":1
+      },
+      "LEGGINGS_OF_DEATH-QTY-1-N1":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"golden leggings",
+            "NBT":"{}"
+         },
+         "amount":1
+      },
+      "BOOTS_OF_DEATH-QTY-1-N1":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"golden boots",
+            "NBT":"{}"
+         },
+         "amount":1
+      }
+   }
+}

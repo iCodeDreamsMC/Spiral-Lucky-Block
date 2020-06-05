@@ -1,0 +1,19 @@
+{ 
+   "key":"drop_44", 
+   "author":"iCodeDreams",
+   "Items":{
+      "iron axe":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"iron axe",
+            "NBT":"{AttributeModifiers:[{Name:attack,AttributeName:generic.attackDamage,Amount:2,Operation:0,Slot:mainhand,UUIDLeast:283985,UUIDMost:598983},{Name:attack,AttributeName:generic.attackSpeed,Amount:-1.5,Operation:0,Slot:mainhand,UUIDLeast:896985,UUIDMost:846983}]}"
+         },
+         "amount":1
+      }
+   }
+}

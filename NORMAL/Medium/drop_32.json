@@ -1,0 +1,19 @@
+{ 
+   "key":"drop_32", 
+   "author":"Taruyroiii",
+   "Items":{
+      "GOLDEN_SHOVEL":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"golden shovel",
+            "NBT":"{}"
+         },
+         "amount":1
+      }
+   }
+}

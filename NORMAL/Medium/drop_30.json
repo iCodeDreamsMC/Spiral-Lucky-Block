@@ -1,0 +1,19 @@
+{ 
+   "key":"drop_30", 
+   "author":"Taruyroiii",
+   "Items":{
+      "POTION_HA_STSL":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"lingering potion",
+            "NBT":"{Potion:[RandomList](harming,strong_slowness)}"
+         },
+         "amount":1
+      }
+   }
+}

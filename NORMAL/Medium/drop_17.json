@@ -1,8 +1,8 @@
 {
-   "key":"drop_1",
+   "key":"drop_17",
    "author":"CreeperTV_1",
    "Items":{
-      "emerald":{
+      "water bucket":{
          "Name":[
             ""
          ],
@@ -10,10 +10,10 @@
             ""
          ],
          "Material":{
-            "Item":"emerald",
+            "Item":"water bucket",
             "NBT":""
          },
-         "amount": "[Random](2-6)"
+         "amount": "1"
       }
    }
 }

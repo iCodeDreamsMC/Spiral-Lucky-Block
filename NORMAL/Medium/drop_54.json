@@ -1,0 +1,22 @@
+{ 
+   "key":"drop_54", 
+   "author":"iCodeDreams",
+   "Items":{
+      "KNOCKBACK_HOE":{
+         "Name":[
+            "&9Make it Count"
+         ],
+         "Lore":[
+            "&7Hit em' out of the world!"
+         ],
+         "Material":{
+            "Item":"wooden hoe",
+            "NBT":"{Damage:58,Enchantments:[{id:knockback,lvl:5}],RepairCost:1000}"
+         },
+         "amount":1
+      }
+   },
+   "Hologram": [
+      "&9Make it Count"    
+   ]
+}

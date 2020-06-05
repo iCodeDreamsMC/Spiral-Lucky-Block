@@ -1,0 +1,19 @@
+{ 
+   "key":"drop_28", 
+   "author":"Taruyroiii",
+   "Items":{
+      "POTION_SLFALL":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"potion",
+            "NBT":"{Potion:[RandomList](slow_falling)}"
+         },
+         "amount":1
+      }
+   }
+}

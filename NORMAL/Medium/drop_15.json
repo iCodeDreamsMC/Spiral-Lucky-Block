@@ -1,8 +1,8 @@
 {
-   "key":"drop_1",
+   "key":"drop_15",
    "author":"CreeperTV_1",
    "Items":{
-      "emerald":{
+      "ender pearl":{
          "Name":[
             ""
          ],
@@ -10,10 +10,10 @@
             ""
          ],
          "Material":{
-            "Item":"emerald",
+            "Item":"ender pearl",
             "NBT":""
          },
-         "amount": "[Random](2-6)"
+         "amount": "1"
       }
    }
 }

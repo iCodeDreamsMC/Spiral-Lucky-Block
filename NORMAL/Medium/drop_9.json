@@ -1,8 +1,8 @@
 {
-   "key":"drop_1",
+   "key":"drop_9",
    "author":"CreeperTV_1",
    "Items":{
-      "emerald":{
+      "end portal frame":{
          "Name":[
             ""
          ],
@@ -10,10 +10,10 @@
             ""
          ],
          "Material":{
-            "Item":"emerald",
+            "Item":"end portal frame",
             "NBT":""
          },
-         "amount": "[Random](2-6)"
+         "amount": "[Random](1-4)"
       }
    }
 }

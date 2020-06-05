@@ -1,0 +1,19 @@
+{ 
+   "key":"drop_49", 
+   "author":"iCodeDreams",
+   "Items":{
+      "SLIME_BALL-QTY-2-10":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            "&7Use me to craft the slimy scimitar!"
+         ],
+         "Material":{
+            "Item":"slime ball",
+            "NBT":"{}"
+         },
+         "amount":"2"
+      }
+   }
+}

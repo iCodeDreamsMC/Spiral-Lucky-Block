@@ -1,19 +1,19 @@
 {
-   "key":"drop_1",
+   "key":"drop_3",
    "author":"CreeperTV_1",
    "Items":{
-      "emerald":{
+      "iron_ingot":{
          "Name":[
-            ""
+            "&7Iron"
          ],
          "Lore":[
             ""
          ],
          "Material":{
-            "Item":"emerald",
+            "Item":"iron ingot",
             "NBT":""
          },
-         "amount": "[Random](2-6)"
+         "amount": "[Random](2-10)"
       }
    }
 }

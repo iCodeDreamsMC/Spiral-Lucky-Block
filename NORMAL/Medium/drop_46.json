@@ -1,0 +1,58 @@
+{ 
+    "key":"drop_46", 
+    "author":"iCodeDreams",
+    "Items":{
+       "WOODEN_HELMET-QTY-1-N1":{
+          "Name":[
+             ""
+          ],
+          "Lore":[
+             ""
+          ],
+          "Material":{
+             "Item":"chainmail helmet",
+             "NBT":"{}"
+          },
+          "amount":1
+       },
+       "WOODEN_CHESTPLATE-QTY-1-N1":{
+          "Name":[
+             ""
+          ],
+          "Lore":[
+             ""
+          ],
+          "Material":{
+             "Item":"chainmail chestplate",
+             "NBT":"{}"
+          },
+          "amount":1
+       },
+       "WOODEN_LEGGINGS-QTY-1-N1":{
+          "Name":[
+             ""
+          ],
+          "Lore":[
+             ""
+          ],
+          "Material":{
+             "Item":"chainmail leggings",
+             "NBT":"{}"
+          },
+          "amount":1
+       },
+       "WOODEN_BOOTS-QTY-1-N1":{
+          "Name":[
+             ""
+          ],
+          "Lore":[
+             ""
+          ],
+          "Material":{
+             "Item":"chainmail boots",
+             "NBT":"{}"
+          },
+          "amount":1
+       }
+    }
+ }

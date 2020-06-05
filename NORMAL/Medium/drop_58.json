@@ -1,0 +1,19 @@
+{ 
+   "key":"drop_58", 
+   "author":"iCodeDreams",
+   "Items":{
+      "BIG_BLUE_BLADE-S-K":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"golden axe",
+            "NBT":"{Enchantments:[{id:sharpness,lvl:[Random](3-6)},{id:knockback,lvl:[Random](1-4)}]}"
+         },
+         "amount":1
+      }
+   }
+}

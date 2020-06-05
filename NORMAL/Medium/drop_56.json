@@ -1,0 +1,19 @@
+{ 
+   "key":"drop_56", 
+   "author":"iCodeDreams",
+   "Items":{
+      "TRIDENT-QTY-1-N1":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"trident",
+            "NBT":"{}"
+         },
+         "amount":1
+      }
+   }
+}

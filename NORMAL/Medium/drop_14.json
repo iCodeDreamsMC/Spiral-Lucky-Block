@@ -1,8 +1,8 @@
 {
-   "key":"drop_1",
+   "key":"drop_14",
    "author":"CreeperTV_1",
    "Items":{
-      "emerald":{
+      "firework rocket":{
          "Name":[
             ""
          ],
@@ -10,10 +10,10 @@
             ""
          ],
          "Material":{
-            "Item":"emerald",
+            "Item":"firework rocket",
             "NBT":""
          },
-         "amount": "[Random](2-6)"
+         "amount": "[Random](1-2)"
       }
    }
 }

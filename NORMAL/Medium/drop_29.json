@@ -1,0 +1,19 @@
+{ 
+   "key":"drop_29", 
+   "author":"Taruyroiii",
+   "Items":{
+      "POTION_HE_POI_WK":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"splash potion",
+            "NBT":"{Potion:[RandomList](healing,poison,weakness)}"
+         },
+         "amount":1
+      }
+   }
+}

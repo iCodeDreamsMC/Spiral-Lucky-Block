@@ -1,0 +1,19 @@
+{ 
+   "key":"drop_37", 
+   "author":"iCodeDreams",
+   "Items":{
+      "SPIRAL_BLOCK-QTY-1-5-N1":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"black glazed terracotta",
+            "NBT":"{}"
+         },
+         "amount":"[Random](4-16)"
+      }
+   }
+}

@@ -1,0 +1,19 @@
+{ 
+   "key":"drop_60", 
+   "author":"iCodeDreams",
+   "Items":{
+      "CHAINSAW-S-SW":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"stone sword",
+            "NBT":"{Enchantments:[{id:sharpness,lvl:[Random](3-5)},{id:sweeping,lvl:5}]}"
+         },
+         "amount":1
+      }
+   }
+}

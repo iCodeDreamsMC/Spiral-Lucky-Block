@@ -1,8 +1,8 @@
 {
-   "key":"drop_1",
+   "key":"drop_16",
    "author":"CreeperTV_1",
    "Items":{
-      "emerald":{
+      "lava bucket":{
          "Name":[
             ""
          ],
@@ -10,10 +10,10 @@
             ""
          ],
          "Material":{
-            "Item":"emerald",
-            "NBT":""
+            "Item":"flint and steel",
+            "NBT":"{Enchantments:[{id:fire_aspect,lvl:1}]}"
          },
-         "amount": "[Random](2-6)"
+         "amount": "1"
       }
    }
 }

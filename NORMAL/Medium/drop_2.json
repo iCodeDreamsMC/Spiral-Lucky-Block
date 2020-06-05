@@ -1,8 +1,8 @@
 {
-   "key":"drop_1",
+   "key":"drop_2",
    "author":"CreeperTV_1",
    "Items":{
-      "emerald":{
+      "cookie":{
          "Name":[
             ""
          ],
@@ -10,7 +10,7 @@
             ""
          ],
          "Material":{
-            "Item":"emerald",
+            "Item":"cookie",
             "NBT":""
          },
          "amount": "[Random](2-6)"

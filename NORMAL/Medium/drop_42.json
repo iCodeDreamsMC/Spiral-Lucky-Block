@@ -1,0 +1,19 @@
+{ 
+   "key":"drop_42", 
+   "author":"iCodeDreams",
+   "Items":{
+      "SPIRAL_AXE-QTY-1-N1":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"diamond axe",
+            "NBT":"{}"
+         },
+         "amount":1
+      }
+   }
+}

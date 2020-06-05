@@ -1,0 +1,19 @@
+{ 
+   "key":"drop_61", 
+   "author":"iCodeDreams",
+   "Items":{
+      "SPIRAL_AXE-QTY-1-N1":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"iron pickaxe",
+            "NBT":"{Enchantments:[{id:sharpness,lvl:[Random](4-7)},{id:efficiency,lvl:[Random](2-5)}]}"
+         },
+         "amount":1
+      }
+   }
+}

@@ -1,8 +1,8 @@
 {
-   "key":"drop_1",
+   "key":"drop_7",
    "author":"CreeperTV_1",
    "Items":{
-      "emerald":{
+      "arrow":{
          "Name":[
             ""
          ],
@@ -10,10 +10,10 @@
             ""
          ],
          "Material":{
-            "Item":"emerald",
+            "Item":"arrow",
             "NBT":""
          },
-         "amount": "[Random](2-6)"
+         "amount": "[Random](4-16)"
       }
    }
 }

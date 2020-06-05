@@ -1,0 +1,19 @@
+{ 
+   "key":"drop_53", 
+   "author":"iCodeDreams",
+   "Items":{
+      "CLOUD_MATERIAL-QTY-2-3":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            "&7Use me to craft a flying cloud boat!"
+         ],
+         "Material":{
+            "Item":"pink dye",
+            "NBT":"{}"
+         },
+         "amount":"[Random](2-3)"
+      }
+   }
+}

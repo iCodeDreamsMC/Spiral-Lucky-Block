@@ -1,0 +1,19 @@
+{ 
+   "key":"drop_51", 
+   "author":"iCodeDreams",
+   "Items":{
+      "DEATH_ARTICLE-QTY-2-5-N1":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            "&7Use me to craft special gear!"
+         ],
+         "Material":{
+            "Item":"green dye",
+            "NBT":"{}"
+         },
+         "amount":"[Random](2-5)"
+      }
+   }
+}

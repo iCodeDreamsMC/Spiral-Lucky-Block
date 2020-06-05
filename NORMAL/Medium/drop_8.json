@@ -1,0 +1,32 @@
+{
+   "key":"drop_8",
+   "author":"CreeperTV_1",
+   "Items":{
+      "cake1":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"cake",
+            "NBT":""
+         },
+         "amount": "1"
+      },
+      "cake2":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"cake",
+            "NBT":""
+         },
+         "amount": "1"
+      }
+   }
+}

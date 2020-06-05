@@ -1,8 +1,8 @@
 {
-   "key":"drop_1",
+   "key":"drop_12",
    "author":"CreeperTV_1",
    "Items":{
-      "emerald":{
+      "white wool":{
          "Name":[
             ""
          ],
@@ -10,10 +10,10 @@
             ""
          ],
          "Material":{
-            "Item":"emerald",
+            "Item":"white wool",
             "NBT":""
          },
-         "amount": "[Random](2-6)"
+         "amount": "[Random](1-32)"
       }
    }
 }

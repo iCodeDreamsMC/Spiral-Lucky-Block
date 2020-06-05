@@ -1,0 +1,45 @@
+{
+   "key":"drop_11",
+   "author":"CreeperTV_1",
+   "Items":{
+      "saddle1":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"saddle",
+            "NBT":""
+         },
+         "amount": "1"
+      },
+      "saddle2":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"saddle",
+            "NBT":""
+         },
+         "amount": "[Random](0-1)"
+      },
+      "saddle3":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"saddle",
+            "NBT":""
+         },
+         "amount": "[Random](0-1)"
+      }
+   }
+}

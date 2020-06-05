@@ -1,8 +1,8 @@
 {
-   "key":"drop_1",
+   "key":"drop_19",
    "author":"CreeperTV_1",
    "Items":{
-      "emerald":{
+      "fire charge":{
          "Name":[
             ""
          ],
@@ -10,10 +10,10 @@
             ""
          ],
          "Material":{
-            "Item":"emerald",
+            "Item":"fire charge",
             "NBT":""
          },
-         "amount": "[Random](2-6)"
+         "amount": "1"
       }
    }
 }

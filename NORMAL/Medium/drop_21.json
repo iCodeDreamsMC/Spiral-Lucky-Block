@@ -1,8 +1,8 @@
 {
-   "key":"drop_1",
+   "key":"drop_21",
    "author":"CreeperTV_1",
    "Items":{
-      "emerald":{
+      "cooked chicken":{
          "Name":[
             ""
          ],
@@ -10,10 +10,10 @@
             ""
          ],
          "Material":{
-            "Item":"emerald",
+            "Item":"cooked chicken",
             "NBT":""
          },
-         "amount": "[Random](2-6)"
+         "amount": "[Random](4-8)"
       }
    }
 }

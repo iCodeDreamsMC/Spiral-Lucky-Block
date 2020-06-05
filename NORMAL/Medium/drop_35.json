@@ -1,0 +1,19 @@
+{ 
+   "key":"drop_35", 
+   "author":"Taruyroiii",
+   "Items":{
+      "RED_DYE":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"red dye",
+            "NBT":"{}"
+         },
+         "amount":"[Random](1-8)"
+      }
+   }
+}

@@ -1,0 +1,19 @@
+{ 
+   "key":"drop_41", 
+   "author":"iCodeDreams",
+   "Items":{
+      "SPIRAL_DEMOLISHER-QTY-1-N1":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"diamond pickaxe",
+            "NBT":"{}"
+         },
+         "amount":1
+      }
+   }
+}

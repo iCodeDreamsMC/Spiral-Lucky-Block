@@ -1,0 +1,19 @@
+{ 
+   "key":"drop_34", 
+   "author":"Taruyroiii",
+   "Items":{
+      "ZOOM_DYE":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            "&bRight click to zoom!"
+         ],
+         "Material":{
+            "Item":"black dye",
+            "NBT":"{}"
+         },
+         "amount":1
+      }
+   }
+}

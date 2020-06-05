@@ -1,0 +1,19 @@
+{ 
+   "key":"drop_40", 
+   "author":"iCodeDreams",
+   "Items":{
+      "SCYTHE_OF_DEATH-QTY-1-N1":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"golden sword",
+            "NBT":"{Enchantments:[{id:sweeping,lvl:[Random](1-3)},{id:sharpness,lvl:[Random](5-8)},{id:fire_aspect,lvl:[Random](1-3)}]}"
+         },
+         "amount":1
+      }
+   }
+}

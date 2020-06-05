@@ -1,0 +1,19 @@
+{ 
+    "key":"drop_67", 
+    "author":"Tmtravlr",
+    "Items":{
+      "WOLF_SPAWN_EGG-QTY-2-6":{
+         "Name":[
+            "&rSpawn [Player]'s Wolf"
+         ],
+         "Lore":[
+            "&7Right Click to Spawn"
+         ],
+         "Material":{
+            "Item":"wolf spawn egg",
+            "NBT":"{EntityTag:{OwnerUUID:\"[PlayerUUID]\",ActiveEffects:[{Id:6,Duration:1,Amplifier:10,ShowParticles:false}],Health:20f,CustomName:\"\\\"[Player]'s Wolf\\\"\",CustomNameVisible:true,CollarColor:[Random](0-15)}}"
+         },
+         "amount":"[Random](1-3)"
+      }
+    }
+ }

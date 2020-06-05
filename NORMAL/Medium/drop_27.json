@@ -1,0 +1,19 @@
+{ 
+   "key":"drop_27", 
+   "author":"Taruyroiii",
+   "Items":{
+      "POTION_ST_REG":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"potion",
+            "NBT":"{Potion:[RandomList](strength,regeneration)}"
+         },
+         "amount":1
+      }
+   }
+}

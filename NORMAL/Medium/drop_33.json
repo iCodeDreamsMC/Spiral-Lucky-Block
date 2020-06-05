@@ -1,0 +1,32 @@
+{ 
+   "key":"drop_33", 
+   "author":"Taruyroiii",
+   "Items":{
+      "BOW-QTY-1-N1":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"bow",
+            "NBT":"{}"
+         },
+         "amount":1
+      },
+	  "ARROWS-QTY-8-16-N1":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"arrow",
+            "NBT":"{}"
+         },
+         "amount":"[Random](8-16)"
+      }
+   }
+}

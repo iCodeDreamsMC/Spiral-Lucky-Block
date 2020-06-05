@@ -1,0 +1,32 @@
+{
+    "key":"drop_22",
+    "author":"CreeperTV_1",
+    "Items":{
+        "oak planks":{
+            "Name":[
+                ""
+            ],
+            "Lore":[
+                ""
+            ],
+            "Material":{
+                "Item":"oak planks",
+                "NBT":""
+            },
+            "amount": "[Random](1-32)"
+        },
+        "oak log":{
+            "Name":[
+                ""
+            ],
+            "Lore":[
+                ""
+            ],
+            "Material":{
+                "Item":"oak log",
+                "NBT":""
+            },
+            "amount":"[Random](2-10)"
+        }
+    }
+}

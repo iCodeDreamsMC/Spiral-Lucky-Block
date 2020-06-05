@@ -1,0 +1,19 @@
+{ 
+   "key":"drop_55", 
+   "author":"iCodeDreams",
+   "Items":{
+      "CROSSBOW_N1":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"crossbow",
+            "NBT":"{}"
+         },
+         "amount":1
+      }
+   }
+}

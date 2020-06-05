@@ -1,0 +1,19 @@
+{ 
+   "key":"drop_26", 
+   "author":"Taruyroiii",
+   "Items":{
+      "POTION_FR_I":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"potion",
+            "NBT":"{Potion:[RandomList](invisibility,fire_resistance)}"
+         },
+         "amount":1
+      }
+   }
+}

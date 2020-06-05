@@ -1,0 +1,19 @@
+{ 
+   "key":"drop_48", 
+   "author":"iCodeDreams",
+   "Items":{
+      "DIRT-QTY-4-16":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"dirt",
+            "NBT":"{}"
+         },
+         "amount":"[Random](4-16)"
+      }
+   }
+}

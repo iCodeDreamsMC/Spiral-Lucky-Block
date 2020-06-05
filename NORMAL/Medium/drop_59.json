@@ -1,0 +1,19 @@
+{ 
+   "key":"drop_59", 
+   "author":"iCodeDreams",
+   "Items":{
+      "SIZABLE_SLIMY_SCIMITAR-S":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            "&7Uppercut I"
+         ],
+         "Material":{
+            "Item":"wooden sword",
+            "NBT":"{Enchantments:[{id:sharpness,lvl:[Random](2-4)}]}"
+         },
+         "amount":1
+      }
+   }
+}

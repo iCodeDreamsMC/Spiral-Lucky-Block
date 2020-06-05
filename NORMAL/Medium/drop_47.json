@@ -1,0 +1,19 @@
+{ 
+   "key":"drop_47", 
+   "author":"iCodeDreams",
+   "Items":{
+      "LUCKY_STEW-QTY-1-16":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"mushroom stew",
+            "NBT":"{}"
+         },
+         "amount":"[Random](1-16)"
+      }
+   }
+}

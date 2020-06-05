@@ -1,0 +1,19 @@
+{ 
+   "key":"drop_31", 
+   "author":"Taruyroiii",
+   "Items":{
+      "GOLDEN_CARROTS_QTY-1-8-N1":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"golden carrot",
+            "NBT":"{}"
+         },
+         "amount":"[Random](1-8)"
+      }
+   }
+}
