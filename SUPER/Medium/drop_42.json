@@ -1,0 +1,19 @@
+{
+   "key": "drop_42",
+   "author": "CreeperTV_1",
+   "Items": {
+       "CLUNKY_CORAL_CHAINSAW_S_S": {
+           "Name": [
+               ""
+           ],
+           "Lore": [
+               ""
+           ],
+           "Material": {
+               "Item": "stone sword",
+               "NBT": "{Enchantments:[{id:sharpness,lvl:[Random](4-6)},{id:sweeping,lvl:5}]}"
+           },
+           "amount": 1
+       }
+   }
+}

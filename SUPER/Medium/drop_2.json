@@ -1,0 +1,19 @@
+{
+    "key": "drop_2",
+    "author": "iCodeDreams",
+    "Items": {
+        "TOTEM_OF_UNDYING": {
+            "Name": [
+                ""
+            ],
+            "Lore": [
+                ""
+            ],
+            "Material": {
+                "Item": "totem of undying",
+                "NBT": ""
+            },
+            "amount": 1
+        }
+    }
+}

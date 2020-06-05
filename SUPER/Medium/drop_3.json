@@ -1,0 +1,19 @@
+{
+    "key": "drop_3",
+    "author": "iCodeDreams",
+    "Items": {
+        "TRIDENT": {
+            "Name": [
+                ""
+            ],
+            "Lore": [
+                ""
+            ],
+            "Material": {
+                "Item": "trident",
+                "NBT": ""
+            },
+            "amount": 1
+        }
+    }
+}

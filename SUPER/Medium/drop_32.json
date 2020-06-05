@@ -1,0 +1,19 @@
+{
+   "key": "drop_32",
+   "author": "CreeperTV_1",
+   "Items": {
+       "EMERALD": {
+           "Name": [
+               ""
+           ],
+           "Lore": [
+               ""
+           ],
+           "Material": {
+               "Item": "emerald",
+               "NBT": ""
+           },
+           "amount": "[Random](2-8)"
+       }
+   }
+}

@@ -1,0 +1,58 @@
+{
+   "key": "drop_25",
+   "author": "CreeperTV_1",
+   "Items": {
+       "CAKE1": {
+           "Name": [
+               ""
+           ],
+           "Lore": [
+               ""
+           ],
+           "Material": {
+               "Item": "cake",
+               "NBT": ""
+           },
+           "amount": 1
+       },
+       "CAKE2": {
+           "Name": [
+               ""
+           ],
+           "Lore": [
+               ""
+           ],
+           "Material": {
+               "Item": "cake",
+               "NBT": ""
+           },
+           "amount": "[Random](0-1)"
+       },
+       "CAKE3": {
+           "Name": [
+               ""
+           ],
+           "Lore": [
+               ""
+           ],
+           "Material": {
+               "Item": "cake",
+               "NBT": ""
+           },
+           "amount": "[Random](0-1)"
+       },
+       "CAKE4": {
+           "Name": [
+               ""
+           ],
+           "Lore": [
+               ""
+           ],
+           "Material": {
+               "Item": "cake",
+               "NBT": ""
+           },
+           "amount": "[Random](0-1)"
+       }
+   }
+}

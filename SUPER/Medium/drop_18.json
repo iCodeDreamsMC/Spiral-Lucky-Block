@@ -1,27 +1,21 @@
 {
-    "key": "drop_1",
+    "key": "drop_18",
     "author": "iCodeDreams",
     "Items": {
-        "CROSSBOW": {
+        "TRIPPLE_SPIRAL_LUCKY_BOW": {
             "Name": [
-                ""
+                "&cT&er&ai&bp&9l&de &cS&ep&ai&br&9a&dl &cL&eu&ac&bk&9y &dB&co&ew"
             ],
             "Lore": [
                 ""
             ],
             "Material": {
-                "Item": "crossbow",
+                "Item": "bow",
                 "NBT": ""
             },
             "amount": 1
         },
         "ARROW-QTY-4-32": {
-            "Name": [
-                ""
-            ],
-            "Lore": [
-                ""
-            ],
             "Material": {
                 "Item": "arrow",
                 "NBT": ""

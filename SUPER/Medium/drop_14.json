@@ -1,0 +1,19 @@
+{
+    "key": "drop_14",
+    "author": "iCodeDreams",
+    "Items": {
+        "SPIRAL_AXE": {
+            "Name": [
+                ""
+            ],
+            "Lore": [
+                ""
+            ],
+            "Material": {
+                "Item": "red dye",
+                "NBT": ""
+            },
+            "amount": "[Random](4-16)"
+        }
+    }
+}

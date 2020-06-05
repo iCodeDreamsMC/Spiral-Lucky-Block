@@ -1,0 +1,19 @@
+{
+   "key":"drop_66",
+   "author":"CreeperTV_1",
+   "Items":{
+      "TIPPED_ARROW-QTY-5-20_LS":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"tipped arrow",
+            "NBT":"{Potion:long_slowness}"
+         },
+         "amount": "[Random](5-20)"
+      }
+   }
+}

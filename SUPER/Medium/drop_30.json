@@ -1,0 +1,45 @@
+{
+   "key": "drop_30",
+   "author": "CreeperTV_1",
+   "Items": {
+       "DIAMOND_HORSE_ARMOR_A1": {
+           "Name": [
+               ""
+           ],
+           "Lore": [
+               ""
+           ],
+           "Material": {
+               "Item": "diamond horse armor",
+               "NBT": ""
+           },
+           "amount": 1
+       },
+       "GOLDEN_HORSE_ARMOR_A2": {
+           "Name": [
+               ""
+           ],
+           "Lore": [
+               ""
+           ],
+           "Material": {
+               "Item": "golden horse armor",
+               "NBT": ""
+           },
+           "amount": 1
+       },
+       "IRON_HORSE_ARMOR_A3": {
+           "Name": [
+               ""
+           ],
+           "Lore": [
+               ""
+           ],
+           "Material": {
+               "Item": "iron horse armor",
+               "NBT": ""
+           },
+           "amount": 1
+       }
+   }
+}

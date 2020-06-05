@@ -1,0 +1,19 @@
+{
+    "key": "drop_19",
+    "author": "iCodeDreams",
+    "Items": {
+        "SPIRAL_STAFF": {
+            "Name": [
+                ""
+            ],
+            "Lore": [
+                ""
+            ],
+            "Material": {
+                "Item": "iron sword",
+                "NBT": "{AttributeModifiers:[{Name:nothing,AttributeName:generic.luck,Amount:0,Slot:mainhand,UUIDLeast:2345167,UUIDMost:541654}],HideFlags:2}"
+            },
+            "amount": 1
+        }
+    }
+}

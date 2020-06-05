@@ -1,0 +1,19 @@
+{
+    "key": "drop_12",
+    "author": "iCodeDreams",
+    "Items": {
+        "SPIRAL_DEMOLISHER": {
+            "Name": [
+                ""
+            ],
+            "Lore": [
+                ""
+            ],
+            "Material": {
+                "Item": "diamond pickaxe",
+                "NBT": ""
+            },
+            "amount": 1
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+   "key": "drop_26",
+   "author": "CreeperTV_1",
+   "Items": {
+       "DRAGON_EGG": {
+           "Name": [
+               ""
+           ],
+           "Lore": [
+               ""
+           ],
+           "Material": {
+               "Item": "Dragon egg",
+               "NBT": ""
+           },
+           "amount": 1
+       }
+   }
+}

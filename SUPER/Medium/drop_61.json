@@ -1,0 +1,71 @@
+{
+   "key":"drop_61",
+   "author":"CreeperTV_1",
+   "Items":{
+      "coal ore":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"coal ore",
+            "NBT":""
+         },
+         "amount": "[Random](1-4)"
+      },
+      "lapis ore":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"lapis ore",
+            "NBT":""
+         },
+         "amount": "[Random](1-4)"
+      },
+      "redstone ore":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"redstone ore",
+            "NBT":""
+         },
+         "amount": "[Random](1-4)"
+      },
+      "nether quartz ore":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"nether quartz ore",
+            "NBT":""
+         },
+         "amount": "[Random](0-3)"
+      },
+      "emerald ore":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"emerald ore",
+            "NBT":""
+         },
+         "amount": "[Random](0-3)"
+      }
+   }
+}

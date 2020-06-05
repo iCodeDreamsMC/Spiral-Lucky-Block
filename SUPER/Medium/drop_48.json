@@ -1,0 +1,22 @@
+{
+   "key":"drop_48",
+   "author":"CreeperTV_1",
+   "Items":{
+      "SPIRAL_DEMOLISHER-DUR-1":{
+         "Name":[
+            "&9Make it Count"
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"diamond pickaxe",
+            "NBT":"{Enchantments:[{id:fortune,lvl:100}],Damage:1560,RepairCost:1000}"
+         },
+         "amount":1
+      }
+   },
+   "Hologram": [
+      "&9Make it Count"    
+   ]
+}

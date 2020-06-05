@@ -1,0 +1,19 @@
+{
+   "key":"drop_59",
+   "author":"CreeperTV_1",
+   "Items":{
+      "pumpkin pie":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"pumpkin pie",
+            "NBT":""
+         },
+         "amount": "[Random](4-8)"
+      }
+   }
+}

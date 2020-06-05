@@ -1,0 +1,19 @@
+{
+    "key": "drop_15",
+    "author": "iCodeDreams",
+    "Items": {
+        "SPIRAL_BLOCK": {
+            "Name": [
+                ""
+            ],
+            "Lore": [
+                ""
+            ],
+            "Material": {
+                "Item": "black glazed terracotta",
+                "NBT": ""
+            },
+            "amount": "[Random](8-16)"
+        }
+    }
+}

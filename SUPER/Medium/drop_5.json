@@ -1,0 +1,9 @@
+{
+   "key": "drop_5",
+   "author": "iCodeDreams",
+   "Commands": {
+       "Player": [
+         "summon enderman [BlockLocation] {carriedBlockState:{Name:gray_terracotta}}"
+       ]
+   }
+}

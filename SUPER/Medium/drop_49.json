@@ -1,0 +1,22 @@
+{
+   "key":"drop_49",
+   "author":"CreeperTV_1",
+   "Items":{
+      "GOLDEN_PICKAXE-DUR-1":{
+         "Name":[
+            "&r&9Make it Count"
+         ],
+         "Lore":[
+            "&bObsidian-b-gone"
+         ],
+         "Material":{
+            "Item":"golden pickaxe",
+            "NBT":"{Enchantments:[{id:efficiency,lvl:100}],Damage:31,RepairCost:1000}"
+         },
+         "amount":1
+      }
+   },
+   "Hologram": [
+      "&9Make it Count"    
+   ]
+}

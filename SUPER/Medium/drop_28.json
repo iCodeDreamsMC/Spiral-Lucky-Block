@@ -1,0 +1,19 @@
+{
+   "key": "drop_28",
+   "author": "CreeperTV_1",
+   "Items": {
+       "NETHER_STAR": {
+           "Name": [
+               ""
+           ],
+           "Lore": [
+               ""
+           ],
+           "Material": {
+               "Item": "Nether star",
+               "NBT": ""
+           },
+           "amount": 1
+       }
+   }
+}

@@ -1,0 +1,22 @@
+{
+   "key":"drop_58",
+   "author":"CreeperTV_1",
+   "Items":{
+      "POTION_OF_EXTREME_SLIME":{
+         "Name":[
+            "&aPotion of Extreme Slime"
+         ],
+         "Lore":[
+            "&7BOOOING!"
+         ],
+         "Material":{
+            "Item":"splash potion",
+            "NBT":"{CustomPotionEffects:[{Id:8,Amplifier:49,Duration:100}],CustomPotionColor:1433600}"
+         },
+         "amount":1
+      }
+   },
+   "Hologram": [
+      "&aPotion of Extreme Slime"    
+   ]
+}

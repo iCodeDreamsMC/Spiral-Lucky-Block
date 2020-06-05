@@ -1,0 +1,19 @@
+{
+   "key": "drop_27",
+   "author": "CreeperTV_1",
+   "Items": {
+       "BEACON": {
+           "Name": [
+               ""
+           ],
+           "Lore": [
+               ""
+           ],
+           "Material": {
+               "Item": "Beacon",
+               "NBT": ""
+           },
+           "amount": 1
+       }
+   }
+}

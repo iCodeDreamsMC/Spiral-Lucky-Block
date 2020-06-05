@@ -1,0 +1,19 @@
+{
+    "key": "drop_9",
+    "author": "iCodeDreams",
+    "Items": {
+        "SPIRAL_SWORD": {
+            "Name": [
+                ""
+            ],
+            "Lore": [
+                ""
+            ],
+            "Material": {
+                "Item": "diamond sword",
+                "NBT": ""
+            },
+            "amount": 1
+        }
+    }
+}

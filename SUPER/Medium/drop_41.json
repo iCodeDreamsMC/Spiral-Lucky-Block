@@ -1,0 +1,19 @@
+{
+   "key": "drop_41",
+   "author": "CreeperTV_1",
+   "Items": {
+       "SIZABLE_SLIMY_SCIMITAR_S": {
+           "Name": [
+               ""
+           ],
+           "Lore": [
+               "&7Uppercut I"
+           ],
+           "Material": {
+               "Item": "wooden sword",
+               "NBT": "{Enchantments:[{id:sharpness,lvl:[Random](3-5)}]}"
+           },
+           "amount": 1
+       }
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "key": "drop_40",
+   "author": "CreeperTV_1",
+   "Items": {
+       "SCYTHE_OF_DEATH_S_K": {
+           "Name": [
+               ""
+           ],
+           "Lore": [
+               ""
+           ],
+           "Material": {
+               "Item": "golden axe",
+               "NBT": "{Enchantments:[{id:sharpness,lvl:[Random](4-7)},{id:knockback,lvl:[Random](2-5)}]}"
+           },
+           "amount": 1
+       }
+   }
+}

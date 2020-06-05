@@ -1,0 +1,9 @@
+{
+   "key": "drop_17",
+   "author": "iCodeDreams",
+   "Commands": {
+       "Player": [
+           "execute positioned [BlockLocation] run summon minecraft:experience_bottle ~ ~2 ~ {Motion:[0.0,3.0,0.0]}"
+       ]
+   }
+}

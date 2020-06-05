@@ -1,0 +1,19 @@
+{
+   "key": "drop_39",
+   "author": "CreeperTV_1",
+   "Items": {
+       "CUMBERSON_CRIMSON_CUTTER_S_F": {
+           "Name": [
+               ""
+           ],
+           "Lore": [
+               ""
+           ],
+           "Material": {
+               "Item": "stone axe",
+               "NBT": "{Enchantments:[{id:sharpness,lvl:[Random](3-5)},{id:fire_aspect,lvl:[Random](2-5)}]}"
+           },
+           "amount": 1
+       }
+   }
+}

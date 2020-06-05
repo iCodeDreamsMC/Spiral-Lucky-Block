@@ -1,0 +1,19 @@
+{
+   "key": "drop_46",
+   "author": "CreeperTV_1",
+   "Items": {
+       "LUCKY_TRIDENT_L_C_I_U": {
+           "Name": [
+               "&rLucky Trident"
+           ],
+           "Lore": [
+               ""
+           ],
+           "Material": {
+               "Item": "trident",
+               "NBT": "{Enchantments:[{id:loyalty,lvl:[Random](2-3)},{id:channeling,lvl:1},{id:impaling,lvl:[Random](2-5)},{id:unbreaking,lvl:[Random](1-3)}]}"
+           },
+           "amount": 1
+       }
+   }
+}

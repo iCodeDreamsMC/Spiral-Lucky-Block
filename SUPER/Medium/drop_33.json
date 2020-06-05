@@ -1,0 +1,19 @@
+{
+   "key": "drop_33",
+   "author": "CreeperTV_1",
+   "Items": {
+       "DEATH_ARTICLE": {
+           "Name": [
+               ""
+           ],
+           "Lore": [
+               "&7Use me to craft special gear!"
+           ],
+           "Material": {
+               "Item": "green dye",
+               "NBT": ""
+           },
+           "amount": "[Random](2-8)"
+       }
+   }
+}

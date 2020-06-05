@@ -1,0 +1,19 @@
+{
+    "key": "drop_20",
+    "author": "iCodeDreams",
+    "Items": {
+        "ENCHANTED_GOLDEN_APPLE": {
+            "Name": [
+                ""
+            ],
+            "Lore": [
+                ""
+            ],
+            "Material": {
+                "Item": "enchanted golden apple",
+                "NBT": ""
+            },
+            "amount": 1
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+   "key": "drop_22",
+   "author": "CreeperTV_1",
+   "Items": {
+       "OBSIDIAN-QTY-4-10": {
+           "Name": [
+               ""
+           ],
+           "Lore": [
+               ""
+           ],
+           "Material": {
+               "Item": "obsidian",
+               "NBT": ""
+           },
+           "amount": "[Random](4-10)"
+       }
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "key": "drop_36",
+   "author": "CreeperTV_1",
+   "Items": {
+       "IRON_INGOT": {
+           "Name": [
+               "&7Iron"
+           ],
+           "Lore": [
+               ""
+           ],
+           "Material": {
+               "Item": "iron ingot",
+               "NBT": ""
+           },
+           "amount": "[Random](2-6)"
+       }
+   }
+}

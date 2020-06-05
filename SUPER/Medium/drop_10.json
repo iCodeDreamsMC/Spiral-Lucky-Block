@@ -1,0 +1,58 @@
+{
+    "key": "drop_10",
+    "author": "iCodeDreams",
+    "Items": {
+        "HOOD_OF_DEATH": {
+            "Name": [
+                ""
+            ],
+            "Lore": [
+                ""
+            ],
+            "Material": {
+                "Item": "golden helmet",
+                "NBT": ""
+            },
+            "amount": 1
+        },
+        "TUNIC_OF_DEATH": {
+            "Name": [
+                ""
+            ],
+            "Lore": [
+                ""
+            ],
+            "Material": {
+                "Item": "golden chestplate",
+                "NBT": ""
+            },
+            "amount": 1
+        },
+        "PANTS_OF_DEATH": {
+            "Name": [
+                ""
+            ],
+            "Lore": [
+                ""
+            ],
+            "Material": {
+                "Item": "golden leggings",
+                "NBT": ""
+            },
+            "amount": 1
+        },
+        "SHOES_OF_DEATH": {
+            "Name": [
+                ""
+            ],
+            "Lore": [
+                ""
+            ],
+            "Material": {
+                "Item": "golden boots",
+                "NBT": ""
+            },
+            "amount": 1
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+   "key": "drop_29",
+   "author": "CreeperTV_1",
+   "Items": {
+       "END_PORTAL_FRAME-QTY-1-4": {
+           "Name": [
+               ""
+           ],
+           "Lore": [
+               ""
+           ],
+           "Material": {
+               "Item": "end portal frame",
+               "NBT": ""
+           },
+           "amount": "[Random](1-4)"
+       }
+   }
+}

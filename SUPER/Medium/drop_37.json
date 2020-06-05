@@ -1,0 +1,19 @@
+{
+   "key": "drop_37",
+   "author": "CreeperTV_1",
+   "Items": {
+       "GOLD_INGOT": {
+           "Name": [
+               "&eGold"
+           ],
+           "Lore": [
+               ""
+           ],
+           "Material": {
+               "Item": "gold ingot",
+               "NBT": ""
+           },
+           "amount": "[Random](2-10)"
+       }
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "key": "drop_43",
+   "author": "CreeperTV_1",
+   "Items": {
+       "MARVELOUS_MEGENTA_MASHER_S_E": {
+           "Name": [
+               ""
+           ],
+           "Lore": [
+               ""
+           ],
+           "Material": {
+               "Item": "iron pickaxe",
+               "NBT": "{Enchantments:[{id:sharpness,lvl:[Random](5-7)},{id:efficiency,lvl:[Random](3-6)}]}"
+           },
+           "amount": 1
+       }
+   }
+}

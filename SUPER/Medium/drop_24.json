@@ -1,0 +1,32 @@
+{
+   "key": "drop_24",
+   "author": "CreeperTV_1",
+   "Items": {
+       "ELYTRA": {
+           "Name": [
+               ""
+           ],
+           "Lore": [
+               ""
+           ],
+           "Material": {
+               "Item": "elytra",
+               "NBT": ""
+           },
+           "amount": 1
+       },
+       "FIREWORK_ROCKET-QTY-1-4": {
+           "Name": [
+               ""
+           ],
+           "Lore": [
+               ""
+           ],
+           "Material": {
+               "Item": "Firework rocket",
+               "NBT": ""
+           },
+           "amount": "[Random](1-4)"
+       }
+   }
+}

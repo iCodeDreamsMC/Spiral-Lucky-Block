@@ -1,0 +1,19 @@
+{
+   "key": "drop_34",
+   "author": "CreeperTV_1",
+   "Items": {
+       "SPIRAL_SHARD": {
+           "Name": [
+               ""
+           ],
+           "Lore": [
+               "&7Use me to craft special gear!"
+           ],
+           "Material": {
+               "Item": "magenta dye",
+               "NBT": ""
+           },
+           "amount": "[Random](2-8)"
+       }
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "key":"drop_64",
+   "author":"CreeperTV_1",
+   "Items":{
+      "SPECTRAL_ARROW-ATY-5-20":{
+         "Name":[
+            "&rSpectral Arrow"
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"spectral arrow",
+            "NBT":""
+         },
+         "amount": "[Random](5-20)"
+      }
+   }
+}

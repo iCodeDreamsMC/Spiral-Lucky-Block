@@ -1,0 +1,27 @@
+{
+   "key": "drop_38",
+   "author": "Tmtravlr",
+   "Items": {
+       "CLOUD_BOAT": {
+           "Name": [
+               "&rFragile Flying Cloud Boat"
+           ],
+           "Lore": [
+               "&7Breaks after one use!"
+           ],
+           "Material": {
+               "Item": "acacia boat",
+               "NBT": ""
+           },
+           "amount": 1
+       }
+   },
+   "Commands": {
+       "Player": [
+           "particle minecraft:cloud ~ ~0.5 ~ 0.5 0.5 0.5 0 20"    
+       ]
+   },
+   "Hologram": [
+       "Fragile Flying Cloud Boat"    
+   ]
+}

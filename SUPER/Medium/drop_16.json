@@ -1,0 +1,19 @@
+{
+    "key": "drop_16",
+    "author": "iCodeDreams",
+    "Items": {
+        "NORMAL_LUCKY_BLOCK_RNG": {
+            "Name": [
+                "&6Lucky Block"
+            ],
+            "Lore": [
+                ""
+            ],
+            "Material": {
+                "Item": "light gray terracotta",
+                "NBT": ""
+            },
+            "amount": "[Random](3-5)"
+        }
+    }
+}

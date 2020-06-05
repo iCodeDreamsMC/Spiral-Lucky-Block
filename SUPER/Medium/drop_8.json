@@ -1,0 +1,58 @@
+{
+    "key": "drop_8",
+    "author": "iCodeDreams",
+    "Items": {
+        "SPIRAL_HELMET": {
+            "Name": [
+                ""
+            ],
+            "Lore": [
+                ""
+            ],
+            "Material": {
+                "Item": "diamond helmet",
+                "NBT": ""
+            },
+            "amount": 1
+        },
+        "SPIRAL_CHESTPLATE": {
+            "Name": [
+                ""
+            ],
+            "Lore": [
+                ""
+            ],
+            "Material": {
+                "Item": "diamond chestplate",
+                "NBT": ""
+            },
+            "amount": 1
+        },
+        "SPIRAL_LEGGINGS": {
+            "Name": [
+                ""
+            ],
+            "Lore": [
+                ""
+            ],
+            "Material": {
+                "Item": "diamond leggings",
+                "NBT": ""
+            },
+            "amount": 1
+        },
+        "SPIRAL_BOOTS": {
+            "Name": [
+                ""
+            ],
+            "Lore": [
+                ""
+            ],
+            "Material": {
+                "Item": "diamond boots",
+                "NBT": ""
+            },
+            "amount": 1
+        }
+    }
+}

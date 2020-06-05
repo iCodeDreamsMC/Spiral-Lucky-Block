@@ -1,0 +1,97 @@
+{
+   "key": "drop_31",
+   "author": "CreeperTV_1",
+   "Items": {
+       "saddle1": {
+           "Name": [
+               ""
+           ],
+           "Lore": [
+               ""
+           ],
+           "Material": {
+               "Item": "saddle",
+               "NBT": ""
+           },
+           "amount": "1"
+       },
+       "saddle2": {
+           "Name": [
+               ""
+           ],
+           "Lore": [
+               ""
+           ],
+           "Material": {
+               "Item": "saddle",
+               "NBT": ""
+           },
+           "amount": "[Random](0-1)"
+       },
+       "saddle3": {
+           "Name": [
+               ""
+           ],
+           "Lore": [
+               ""
+           ],
+           "Material": {
+               "Item": "saddle",
+               "NBT": ""
+           },
+           "amount": "[Random](0-1)"
+       },
+       "saddle4": {
+           "Name": [
+               ""
+           ],
+           "Lore": [
+               ""
+           ],
+           "Material": {
+               "Item": "saddle",
+               "NBT": ""
+           },
+           "amount": "[Random](0-1)"
+       },
+       "saddle5": {
+           "Name": [
+               ""
+           ],
+           "Lore": [
+               ""
+           ],
+           "Material": {
+               "Item": "saddle",
+               "NBT": ""
+           },
+           "amount": "[Random](0-1)"
+       },
+       "saddle6": {
+           "Name": [
+               ""
+           ],
+           "Lore": [
+               ""
+           ],
+           "Material": {
+               "Item": "saddle",
+               "NBT": ""
+           },
+           "amount": "[Random](0-1)"
+       },
+       "saddle7": {
+           "Name": [
+               ""
+           ],
+           "Lore": [
+               ""
+           ],
+           "Material": {
+               "Item": "saddle",
+               "NBT": ""
+           },
+           "amount": "[Random](0-1)"
+       }
+   }
+}
