@@ -1,0 +1,22 @@
+{
+   "key":"drop_21",
+   "author":"Tmtravlr",
+   "Items":{
+      "make it count obsidian smasher":{
+         "Name":[
+            "&9Make it Count"
+         ],
+         "Lore":[
+            "&bObsidian-b-gone"
+         ],
+         "Material":{
+            "Item":"golden pickaxe",
+            "NBT":"{Enchantments:[{id:efficiency,lvl:100}],Damage:31,RepairCost:1000}"
+         },
+         "amount":1
+      }
+   },
+   "Hologram":[
+      "&9Make it Count"
+   ]
+}

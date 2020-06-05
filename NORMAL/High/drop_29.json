@@ -1,0 +1,22 @@
+{
+   "key":"drop_29",
+   "author":"Tmtravlr",
+   "Items":{
+      "":{
+         "Name":[
+            "&r&9Potion of Ultimate Bed Defence"
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"splash potion",
+            "NBT":"{CustomPotionEffects:[{Id:4,Amplifier:3,Duration:400},{Id:15,Amplifier:0,Duration:400},{Id:18,Amplifier:3,Duration:400}],CustomPotionColor:3646267}"
+         },
+         "amount":1
+      }
+   },
+   "Hologram": [
+      "&9Potion of Ultimate Bed Defence"    
+   ]
+}

@@ -1,8 +1,8 @@
 {
-   "key":"drop_1",
+   "key":"drop_12",
    "author":"CreeperTV_1",
    "Items":{
-      "EMERALD_BLOCK-QTY-2-3":{
+      "SPIRAL_SWORD_N":{
          "Name":[
             ""
          ],
@@ -10,10 +10,10 @@
             ""
          ],
          "Material":{
-            "Item":"emerald block",
+            "Item":"diamond sword",
             "NBT":""
          },
-         "amount":"[Random](2-3)"
+         "amount": 1
       }
    }
 }

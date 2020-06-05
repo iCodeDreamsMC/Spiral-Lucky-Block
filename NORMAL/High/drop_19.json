@@ -1,0 +1,32 @@
+{
+   "key":"drop_19",
+   "author":"CreeperTV_1",
+   "Items":{
+      "Lucky_CROSSBOW_N":{
+         "Name":[
+            "&rLucky Crossbow"
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"Crossbow",
+            "NBT":"{Enchantments:[{id:quick_charge,lvl:[Random](1-3)},{id:piercing,lvl:[Random](1-3)}]}"
+         },
+         "amount":1
+      }, 
+         "ARROW-QTY-2-8-N":{
+            "Name":[
+               ""
+            ],
+            "Lore":[
+               ""
+            ],
+            "Material":{
+               "Item":"arrow",
+               "NBT":""
+            },
+            "amount":"[Random](2-8)"
+         }
+   }
+}

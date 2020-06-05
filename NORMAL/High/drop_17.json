@@ -1,0 +1,19 @@
+{
+   "key":"drop_17",
+   "author":"CreeperTV_1",
+   "Items":{
+      "DRAGON_HEAD_N":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"dragon head",
+            "NBT":"{AttributeModifiers:[{Name:health,AttributeName:generic.maxHealth,Amount:10,Operation:0,Slot:head,UUIDLeast:5983983,UUIDMost:29837465},{Name:damage,AttributeName:generic.attackDamage,Amount:4,Operation:0,Slot:head,UUIDLeast:4867983,UUIDMost:4097465},{Name:armor,AttributeName:generic.armor,Amount:2,Operation:0,Slot:head,UUIDLeast:1483983,UUIDMost:5094465}]}"
+         },
+         "amount":1
+      }
+   }
+}

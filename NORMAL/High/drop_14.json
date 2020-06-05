@@ -1,8 +1,8 @@
 {
-   "key":"drop_1",
+   "key":"drop_14",
    "author":"CreeperTV_1",
    "Items":{
-      "EMERALD_BLOCK-QTY-2-3":{
+      "ELYTRA_N":{
          "Name":[
             ""
          ],
@@ -10,10 +10,10 @@
             ""
          ],
          "Material":{
-            "Item":"emerald block",
+            "Item":"elytra",
             "NBT":""
          },
-         "amount":"[Random](2-3)"
+         "amount":1
       }
    }
 }

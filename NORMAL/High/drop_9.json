@@ -1,0 +1,19 @@
+{
+   "key":"drop_9",
+   "author":"CreeperTV_1",
+   "Items":{
+      "SPIRAL_STAFF_1":{
+         "Name":[
+            ""
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"iron sword",
+            "NBT":"{AttributeModifiers:[{Name:[nothing],AttributeName:[generic.luck],Amount:0,Slot:mainhand,UUIDLeast:654475,UUIDMost:347865}],HideFlags:2}"
+         },
+         "amount":1
+      }
+   }
+}

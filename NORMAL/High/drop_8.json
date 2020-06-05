@@ -1,8 +1,8 @@
 {
-   "key":"drop_1",
+   "key":"drop_8",
    "author":"CreeperTV_1",
    "Items":{
-      "EMERALD_BLOCK-QTY-2-3":{
+      "NOTCH_APPLE_1":{
          "Name":[
             ""
          ],
@@ -10,10 +10,10 @@
             ""
          ],
          "Material":{
-            "Item":"emerald block",
+            "Item":"enchanted golden apple",
             "NBT":""
          },
-         "amount":"[Random](2-3)"
+         "amount":1
       }
    }
 }

@@ -1,8 +1,8 @@
 {
-   "key":"drop_1",
+   "key":"drop_4",
    "author":"CreeperTV_1",
    "Items":{
-      "EMERALD_BLOCK-QTY-2-3":{
+      "DRAGON_EGG_1":{
          "Name":[
             ""
          ],
@@ -10,10 +10,10 @@
             ""
          ],
          "Material":{
-            "Item":"emerald block",
+            "Item":"dragon egg",
             "NBT":""
          },
-         "amount":"[Random](2-3)"
+         "amount": 1
       }
    }
 }

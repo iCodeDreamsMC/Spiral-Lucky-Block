@@ -1,8 +1,8 @@
 {
-   "key":"drop_1",
+   "key":"drop_7",
    "author":"CreeperTV_1",
    "Items":{
-      "EMERALD_BLOCK-QTY-2-3":{
+      "OBSIDIAN-QTY-1-10-N":{
          "Name":[
             ""
          ],
@@ -10,10 +10,10 @@
             ""
          ],
          "Material":{
-            "Item":"emerald block",
+            "Item":"obsidian",
             "NBT":""
          },
-         "amount":"[Random](2-3)"
+         "amount": "[Random](1-10)"
       }
    }
 }

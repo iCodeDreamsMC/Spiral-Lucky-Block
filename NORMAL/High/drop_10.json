@@ -1,0 +1,19 @@
+{
+   "key":"drop_10",
+   "author":"CreeperTV_1",
+   "Items":{
+      "SUPER_LUCKY_BLOCK-QTY-1-2":{
+         "Name":[
+            "&6Super Lucky Block"
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"gray terracotta",
+            "NBT":""
+         },
+         "amount": "[Random](1-2)"
+      }
+   }
+}

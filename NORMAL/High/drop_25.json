@@ -1,0 +1,22 @@
+{
+   "key":"drop_25",
+   "author":"Tmtravlr",
+   "Items":{
+      "POTION_OF_THE_ULTIMATE_SURVIVALIST":{
+         "Name":[
+            "&ePotion of the Ultimate Survivalist"
+         ],
+         "Lore":[
+            ""
+         ],
+         "Material":{
+            "Item":"potion",
+            "NBT":"{CustomPotionEffects:[{Id:12,Amplifier:0,Duration:1200},{Id:13,Amplifier:0,Duration:1200},{Id:16,Amplifier:0,Duration:1200}],CustomPotionColor:16746839}"
+         },
+         "amount":1
+      }
+   },
+   "Hologram": [
+      "&ePotion of the Ultimate Survivalist"    
+   ]
+}

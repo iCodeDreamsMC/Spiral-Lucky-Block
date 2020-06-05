@@ -1,8 +1,8 @@
 {
-   "key":"drop_1",
+   "key":"drop_31",
    "author":"CreeperTV_1",
    "Items":{
-      "EMERALD_BLOCK-QTY-2-3":{
+      "SPECTRAL_ARROW-QTY-2-10-N2":{
          "Name":[
             ""
          ],
@@ -10,10 +10,10 @@
             ""
          ],
          "Material":{
-            "Item":"emerald block",
+            "Item":"spectral arrow",
             "NBT":""
          },
-         "amount":"[Random](2-3)"
+         "amount": "[Random](2-10)"
       }
    }
 }
