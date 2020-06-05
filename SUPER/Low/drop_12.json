@@ -1,0 +1,19 @@
+{
+   "key": "drop_12",
+   "author": "CreeperTV_1",
+   "Items": {
+       "UNLUCKY_POTION_H_S": {
+           "Name": [
+               ""
+           ],
+           "Lore": [
+               "&4&lThrow me at your friends >:)"
+           ],
+           "Material": {
+               "Item": "Lingering Potion",
+               "NBT": "{Potion:[RandomList](harming,strong_slowness)}"
+           },
+           "amount": 1
+       }
+   }
+}

@@ -1,8 +1,8 @@
 {
-   "key": "drop_1",
+   "key": "drop_8",
    "author": "CreeperTV_1",
    "Items": {
-       "LEATHER_HELMET": {
+       "MYSTERY_POTION_I_FR": {
            "Name": [
                ""
            ],
@@ -10,8 +10,8 @@
                ""
            ],
            "Material": {
-               "Item": "leather helmet",
-               "NBT": "{display:{color:[Random](0-16777215)}}"
+               "Item": "Potion",
+               "NBT": "{Potion:[RandomList](invisibility,fire_resistance)}"
            },
            "amount": 1
        }

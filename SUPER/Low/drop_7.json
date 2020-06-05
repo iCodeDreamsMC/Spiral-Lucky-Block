@@ -1,8 +1,8 @@
 {
-   "key": "drop_1",
+   "key": "drop_7",
    "author": "CreeperTV_1",
    "Items": {
-       "LEATHER_HELMET": {
+       "COOKED_BEEF-QTY-4-8": {
            "Name": [
                ""
            ],
@@ -10,10 +10,10 @@
                ""
            ],
            "Material": {
-               "Item": "leather helmet",
-               "NBT": "{display:{color:[Random](0-16777215)}}"
+               "Item": "cooked beef",
+               "NBT": ""
            },
-           "amount": 1
+           "amount": "[Random](4-8)"
        }
    }
 }

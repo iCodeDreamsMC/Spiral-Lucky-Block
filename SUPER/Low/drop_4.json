@@ -1,8 +1,8 @@
 {
-   "key": "drop_1",
+   "key": "drop_4",
    "author": "CreeperTV_1",
    "Items": {
-       "LEATHER_HELMET": {
+       "LEATHER_BOOTS-PROT--3": {
            "Name": [
                ""
            ],
@@ -10,7 +10,7 @@
                ""
            ],
            "Material": {
-               "Item": "leather helmet",
+               "Item": "leather boots",
                "NBT": "{display:{color:[Random](0-16777215)}}"
            },
            "amount": 1

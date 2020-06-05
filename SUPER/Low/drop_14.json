@@ -1,8 +1,8 @@
 {
-   "key": "drop_1",
+   "key": "drop_14",
    "author": "CreeperTV_1",
    "Items": {
-       "LEATHER_HELMET": {
+       "FISHING_ROD": {
            "Name": [
                ""
            ],
@@ -10,10 +10,10 @@
                ""
            ],
            "Material": {
-               "Item": "leather helmet",
-               "NBT": "{display:{color:[Random](0-16777215)}}"
+               "Item": "fishing rod",
+               "NBT": ""
            },
-           "amount": 1
+           "amount": "1"
        }
    }
 }

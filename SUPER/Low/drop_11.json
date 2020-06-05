@@ -1,8 +1,8 @@
 {
-   "key": "drop_1",
+   "key": "drop_11",
    "author": "CreeperTV_1",
    "Items": {
-       "LEATHER_HELMET": {
+       "UNLUCKY_POTION_H_P_W": {
            "Name": [
                ""
            ],
@@ -10,8 +10,8 @@
                ""
            ],
            "Material": {
-               "Item": "leather helmet",
-               "NBT": "{display:{color:[Random](0-16777215)}}"
+               "Item": "Splash Potion",
+               "NBT": "{Potion:[RandomList](healing,poison,weakness)}"
            },
            "amount": 1
        }

@@ -1,8 +1,8 @@
 {
-   "key": "drop_1",
+   "key": "drop_10",
    "author": "CreeperTV_1",
    "Items": {
-       "LEATHER_HELMET": {
+       "POTION_OF_FALLING": {
            "Name": [
                ""
            ],
@@ -10,8 +10,8 @@
                ""
            ],
            "Material": {
-               "Item": "leather helmet",
-               "NBT": "{display:{color:[Random](0-16777215)}}"
+               "Item": "potion",
+               "NBT": "{Potion:[RandomList](slow_falling)}"
            },
            "amount": 1
        }
